@@ -7,3 +7,7 @@
 1. Complete clone entire repository.  
 2. Use unity editor to build the corresponding game files for different system.  
 3. Run the game file.
+## **Reference**
+https://learn.unity.com/project/roll-a-ball?uv=2020.2
+## **Identifying Information**
+Author: Haoran Zhang, hzhang9@uoregon.edu
