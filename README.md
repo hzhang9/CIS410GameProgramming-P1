@@ -4,4 +4,6 @@
 1. Complete clone entire repository.
 2. Run Rollaball\Builds\Rollaball.exe.
 ### For others system or WebGL:
-Use unity editor to build the corresponding game files for different system.
+1. Complete clone entire repository.  
+2. Use unity editor to build the corresponding game files for different system.  
+3. Run the game file.
