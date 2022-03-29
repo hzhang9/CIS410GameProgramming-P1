@@ -3730,6 +3730,8 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void PlayerController_Start_m1D83076E8B136A71
 		Il2CppCodeGenWriteBarrier((void**)(&__this->___rb_7), (void*)L_0);
 		// SetCountText();
 		PlayerController_SetCountText_m6A9F5CF284E511EBFE348D2500F866BAB8CE2C24(__this, NULL);
+		// count = 0;
+		__this->___count_8 = 0;
 		// winTextObject.SetActive(false);
 		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_1 = __this->___winTextObject_6;
 		GameObject_SetActive_m638E92E1E75E519E5B24CF150B08CA8E0CDFAB92(L_1, (bool)0, NULL);
