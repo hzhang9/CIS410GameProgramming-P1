@@ -9,7 +9,8 @@
 3. Run the game file.
 ### For WebGL:
 1. Complete clone entire repository.  
-2. Use unity editor to build and run.
+2. Use unity editor to Switch Platform to WebGL.
+3. Build and run.
 ## **Reference**
 https://learn.unity.com/project/roll-a-ball?uv=2020.2
 ## **Identifying Information**
