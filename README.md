@@ -1,16 +1,7 @@
 # **CIS410GameProgramming-P1**
 ## **Operation**
-### For Win 64 system:  
 1. Complete clone entire repository.
-2. Run Rollaball\Builds\Rollaball.exe.
-### For others system:
-1. Complete clone entire repository.  
-2. Use unity editor to build the corresponding game files for different platform.  
-3. Run the game file.
-### For WebGL:
-1. Complete clone entire repository.  
-2. Use unity editor to Switch Platform to WebGL.
-3. Build and run.
+2. Use unity editor to build the corresponding game files for different platform into Rollaball\Builds folder (or you can create other folders of your choice), then run the game file (for WebGL, directly selecting build and run).  
 ## **Reference**
 https://learn.unity.com/project/roll-a-ball?uv=2020.2
 ## **Identifying Information**

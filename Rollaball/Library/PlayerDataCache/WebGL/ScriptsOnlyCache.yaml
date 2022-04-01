@@ -3,6 +3,7 @@ ScriptsOnlyBuild:
     Assembly-CSharp.dll:
     - CameraController
     - PlayerController
+    - Readme
     - Rotator
     Unity.2D.Tilemap.Editor.dll:
     - UnityEditor.Tilemaps.GridBrush
@@ -199,107 +200,107 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 1732}
     - Class: 114
-      Script: {instanceID: 1740}
+      Script: {instanceID: 1876}
     - Class: 114
-      Script: {instanceID: 1800}
+      Script: {instanceID: 1936}
     - Class: 114
-      Script: {instanceID: 1984}
+      Script: {instanceID: 2120}
     - Class: 114
-      Script: {instanceID: 2732}
-    - Class: 114
-      Script: {instanceID: 2850}
+      Script: {instanceID: 2868}
     - Class: 114
       Script: {instanceID: 2986}
     - Class: 114
-      Script: {instanceID: 3128}
+      Script: {instanceID: 3122}
     - Class: 114
-      Script: {instanceID: 3494}
+      Script: {instanceID: 3264}
     - Class: 114
-      Script: {instanceID: 4284}
+      Script: {instanceID: 3630}
     - Class: 114
-      Script: {instanceID: 4412}
+      Script: {instanceID: 4420}
     - Class: 114
-      Script: {instanceID: 4544}
+      Script: {instanceID: 4548}
     - Class: 114
-      Script: {instanceID: 4580}
+      Script: {instanceID: 4680}
     - Class: 114
-      Script: {instanceID: 4692}
+      Script: {instanceID: 4716}
     - Class: 114
-      Script: {instanceID: 4946}
+      Script: {instanceID: 4828}
     - Class: 114
-      Script: {instanceID: 5114}
+      Script: {instanceID: 5082}
     - Class: 114
-      Script: {instanceID: 5324}
+      Script: {instanceID: 5250}
     - Class: 114
-      Script: {instanceID: 5598}
+      Script: {instanceID: 5460}
     - Class: 114
-      Script: {instanceID: 5690}
+      Script: {instanceID: 5734}
     - Class: 114
-      Script: {instanceID: 5780}
+      Script: {instanceID: 5826}
     - Class: 114
-      Script: {instanceID: 6004}
+      Script: {instanceID: 5916}
     - Class: 114
-      Script: {instanceID: 6274}
+      Script: {instanceID: 6140}
     - Class: 114
-      Script: {instanceID: 6426}
+      Script: {instanceID: 6410}
     - Class: 114
-      Script: {instanceID: 7496}
-    - Class: 114
-      Script: {instanceID: 7526}
-    - Class: 114
-      Script: {instanceID: 7620}
+      Script: {instanceID: 6562}
     - Class: 114
       Script: {instanceID: 7632}
     - Class: 114
-      Script: {instanceID: 7940}
+      Script: {instanceID: 7662}
     - Class: 114
-      Script: {instanceID: 7944}
+      Script: {instanceID: 7756}
     - Class: 114
-      Script: {instanceID: 7968}
+      Script: {instanceID: 7768}
     - Class: 114
-      Script: {instanceID: 8172}
+      Script: {instanceID: 8076}
     - Class: 114
-      Script: {instanceID: 8380}
+      Script: {instanceID: 8080}
     - Class: 114
-      Script: {instanceID: 8576}
+      Script: {instanceID: 8104}
     - Class: 114
-      Script: {instanceID: 8806}
+      Script: {instanceID: 8308}
     - Class: 114
-      Script: {instanceID: 8824}
+      Script: {instanceID: 8516}
     - Class: 114
-      Script: {instanceID: 8944}
+      Script: {instanceID: 8712}
     - Class: 114
-      Script: {instanceID: 8950}
+      Script: {instanceID: 8938}
     - Class: 114
-      Script: {instanceID: 9130}
+      Script: {instanceID: 8956}
     - Class: 114
-      Script: {instanceID: 9186}
+      Script: {instanceID: 9076}
     - Class: 114
-      Script: {instanceID: 9258}
+      Script: {instanceID: 9082}
     - Class: 114
-      Script: {instanceID: 9392}
+      Script: {instanceID: 9262}
     - Class: 114
-      Script: {instanceID: 9548}
+      Script: {instanceID: 9318}
     - Class: 114
-      Script: {instanceID: 9758}
+      Script: {instanceID: 9390}
     - Class: 114
-      Script: {instanceID: 9948}
+      Script: {instanceID: 9524}
     - Class: 114
-      Script: {instanceID: 9972}
+      Script: {instanceID: 9680}
     - Class: 114
-      Script: {instanceID: 10536}
+      Script: {instanceID: 9890}
     - Class: 114
-      Script: {instanceID: 10992}
+      Script: {instanceID: 10080}
     - Class: 114
-      Script: {instanceID: 11056}
+      Script: {instanceID: 10104}
     - Class: 114
-      Script: {instanceID: 11090}
+      Script: {instanceID: 10668}
     - Class: 114
-      Script: {instanceID: 11580}
+      Script: {instanceID: 11124}
     - Class: 114
-      Script: {instanceID: 11640}
+      Script: {instanceID: 11188}
     - Class: 114
-      Script: {instanceID: 12012}
+      Script: {instanceID: 11222}
+    - Class: 114
+      Script: {instanceID: 11712}
+    - Class: 114
+      Script: {instanceID: 11772}
+    - Class: 114
+      Script: {instanceID: 12144}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -1804,4 +1805,4 @@ ScriptsOnlyBuild:
   platform: 20
   scenePathNames:
   - Assets/Scenes/MiniGame.unity
-  playerPath: C:/Users/ZHR/Desktop/cis410/a1/Rollaball/Builds
+  playerPath: C:/Users/ZHR/Desktop/cis410/a1/CIS410GameProgramming-P1/Rollaball/Builds
